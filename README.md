@@ -42,9 +42,6 @@ crypto-point/
 
 ```bash
 cd backend
-
-# Copy and fill .env
-cp .env.example .env
 # Edit .env — paste your CMC_API_KEY
 
 # Create virtual environment
@@ -66,9 +63,6 @@ cd frontend
 
 # Install deps
 npm install
-
-# (Optional) copy .env if you change the backend port
-cp .env.example .env
 
 # Run dev server
 npm run dev
