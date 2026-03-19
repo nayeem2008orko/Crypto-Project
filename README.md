@@ -11,7 +11,7 @@ crypto-point/
 ├── backend/
 │   ├── app.py              ← Flask API
 │   ├── requirements.txt
-│   └── .env.example        ← Copy to .env and fill in
+│   └── .env
 ├── frontend/
 │   ├── src/
 │   │   ├── App.jsx
@@ -26,7 +26,7 @@ crypto-point/
 │   ├── index.html
 │   ├── vite.config.js
 │   ├── package.json
-│   └── .env.example        ← Copy to .env if needed
+│   └── .env
 └── README.md
 ```
 
